@@ -1,7 +1,7 @@
 # Spatiotemporal Evolution of Marine Heatwaves Globally
 
-#### Description
+## Description
 
-#### Authors
+## Authors
 
-#### Acknowledgements
+## Acknowledgements
